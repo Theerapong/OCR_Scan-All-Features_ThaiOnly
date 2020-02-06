@@ -6,4 +6,4 @@ This software will read the pictures of Thai characters (from Thai OCR Corpus of
 
 Then, the software will extract the feature of each charator.
 
-The algorithm of feature extraction of each charactor is that each charatore will be divided into 3*3 or 4*4 parts. Each part will be counted the ratio of black coulor and white coulor.
+The algorithm of feature extraction of each charactor is that each charatore will be divided into 3x3 or 4x4 parts. Each part will be counted the ratio of black coulor and white coulor.
