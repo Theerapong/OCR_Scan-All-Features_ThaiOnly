@@ -1,3 +1,5 @@
+*(This project was a part of studying at Kasetsart University)*
+
 [Overall]
 
 The pre-process of Optical Character Recognition (OCR) of Thai characters.
